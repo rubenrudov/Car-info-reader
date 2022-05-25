@@ -1,0 +1,5 @@
+requests~=2.27.1
+matplotlib~=3.5.2
+numpy~=1.21.6
+imutils~=0.5.4
+easyocr~=1.4.2
