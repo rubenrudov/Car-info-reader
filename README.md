@@ -33,6 +33,21 @@ git clone https://github.com/rubenrudov/Car-info-reader.git
 pip install -r requirements.txt
 ```
 
+## Outputs
+<p align="center">
+<a href="http://github.com/rubenrudov" target="blank">
+<img 
+src="https://github.com/rubenrudov/Car-info-reader/blob/main/screenshots/detected_plate.jpg"
+width="160"
+alt="Data gov il"
+/>
+<img 
+src="https://github.com/rubenrudov/Car-info-reader/blob/main/screenshots/info.jpg"
+width="160"
+alt="Data gov il"
+/>
+</a>
+<p align="center">
 
 ## Stay in touch
 
